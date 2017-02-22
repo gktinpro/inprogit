@@ -1,1 +1,3 @@
 https://github.com/gktinpro/inprogit.git
+user:server  email:liwenyan@gkt-inro.com
+github user:gktinpro  password:inpro2011  
